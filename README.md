@@ -1,1 +1,2 @@
-# Fictional-Nucamp-website
+# Nucamp website 
+fictional website utilzing HTML, SASS, JS
